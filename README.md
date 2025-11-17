@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ 🚧 works in progress 🚧
+ For the moment you can check me here:
 <!--
 **kugogt/Kugogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
