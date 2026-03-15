@@ -3,16 +3,16 @@
 I'm a Data Science master's student at the University of Milano-Bicocca, 
 with a background in Statistics and Information Management.
 
-I am really passionate in:
+I’m particularly interested in:
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - NLP
-- and **everything** about statistics!
+- Applied statistics and statistical modeling
   
 ---
 
-# University Projects
+## University Projects
 
 During my master's degree I worked on several projects across different courses.
 
