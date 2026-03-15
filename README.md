@@ -12,7 +12,7 @@ I am really passionate in:
   
 ---
 
-# University Projects 📚
+# University Projects
 
 During my master's degree I worked on several projects across different courses.
 
