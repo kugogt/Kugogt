@@ -26,7 +26,8 @@ Inside the repository you can find multiple folders, each containing a project r
 In addition to coursework, I’ve worked on personal projects to deepen my knowledge and explore areas of interest. Each project has its own repository:
 
 - [House Price Prediction](https://github.com/kugogt/Housing-Price-Prediction) – End-to-end ML pipeline for regression, feature engineering, model stacking and interpretation.  
-- [SRRGAN | U-Net & PatchGan](https://github.com/kugogt/SRRGAN-U-Net-PatchGan/tree/main) – Super-Resolution & Restoration with U-net and PatchGan.  
+- [SRRGAN | U-Net & PatchGan](https://github.com/kugogt/SRRGAN-U-Net-PatchGan/tree/main) – Super-Resolution & Restoration with U-net and PatchGan.
+- [CSIRO - Image2Biomass Prediction](https://github.com/kugogt/CSIRO-Image2Biomass-Kaggle-Competition/tree/main) - Kaggle Competition about the prediction of biomass using pasture images.
 
 
 ---
